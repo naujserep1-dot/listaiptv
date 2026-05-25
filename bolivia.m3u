@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="Bolivia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Bolivia_TV_2021.png" group-title="Nacionales",Bolivia TV
+https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVU.bo" tvg-name="TV Universitaria" tvg-logo="https://tvu.umsa.bo/image/layout_set_logo?img_id=14115160" group-title="Nacionales",TVU La Paz (UMSA)
+https://s1.tvdatta.com:3557/live/tvulive.m3u8
+
+#EXTINF:-1 tvg-id="Unitel.bo" tvg-name="Unitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Unitel_Bolivia_Logo.png" group-title="Nacionales",Unitel (Señal Informativa Web)
+https://content.jwplatform.com/manifests/vM79uAOl.m3u8
+
+#EXTINF:-1 tvg-id="RedUno.bo" tvg-name="Red Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Red_Uno_de_Bolivia_logo_2022.png" group-title="Nacionales",Red Uno (Streaming Web)
+https://5a18fb2cb859b.streamlock.net/reduno/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTP.bo" tvg-name="RTP Bolivia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/RTP_Bolivia_Logo.png" group-title="Nacionales",RTP Bolivia
+https://stream.corporacionrtp.com:1936/rtptv/rtptv/playlist.m3u8
